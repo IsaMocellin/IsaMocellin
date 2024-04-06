@@ -17,9 +17,9 @@ I'm a technology enthusiast with experience in software development, databases, 
 ## My GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaMocellin&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaMocellin&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaMocellin&theme=vision-friendly-dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaMocellin&show_icons=true&theme=neon" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaMocellin&layout=compact&theme=neon" alt="Most Used Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaMocellin&theme=neon" alt="GitHub Streak">
 </p>
 
 <p align="center">
