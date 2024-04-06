@@ -11,7 +11,7 @@ I'm a technology enthusiast with experience in software development, databases, 
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-000000.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI">
+  <img src="https://img.shields.io/badge/Power%20BI-000000.svg?style=for-the-badge&logo=Power-BI&logoColor=yellow" alt="PowerBI">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" alt="GitHub">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F" alt="Git">
 
