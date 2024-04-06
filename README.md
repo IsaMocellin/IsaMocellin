@@ -9,8 +9,8 @@ I'm a technology enthusiast with experience in software development, databases, 
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="ttps://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=black" alt="Python">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" alt="GitHub">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F" alt="Git">
