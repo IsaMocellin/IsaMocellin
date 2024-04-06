@@ -13,6 +13,7 @@ I'm a technology enthusiast with experience in software development, databases, 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" alt="GitHub">
+  <img src="(https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)" alt="Git">
 
 ## My GitHub Stats 📊
 
