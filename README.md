@@ -7,7 +7,7 @@ I'm a technology enthusiast with experience in software development, databases, 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=blue" alt="Python">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
