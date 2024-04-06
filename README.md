@@ -20,7 +20,7 @@ I'm a technology enthusiast with experience in software development, databases, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsaMocellin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsaMocellin&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Most Used Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsaMocellin&theme=onedark&fire=E94D5F&border=30A3DC&dates=30A3DC&ring=EB5454&background=45%2C000000%2C000000&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=EB5454&sideLabels=EB5454&excludeDaysLabel=EB5454" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsaMocellin&theme=onedark&fire=E94D5F&border=30A3DC&dates=EB5454&ring=EB5454&background=45%2C000000%2C000000&stroke=30A3DC&sideNums=30A3DC&currStreakNum=30A3DC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=FFFFFF" alt="GitHub Streak">
 </p>
 
 <p align="center">
