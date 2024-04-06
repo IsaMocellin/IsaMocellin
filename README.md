@@ -20,7 +20,7 @@ I'm a technology enthusiast with experience in software development, databases, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsaMocellin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsaMocellin&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Most Used Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaMocellin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaMocellin&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Streak">
 </p>
 
 <p align="center">
