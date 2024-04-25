@@ -1,6 +1,6 @@
 # Hello! I'm Isabela 💜
 
-I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of data analysis. At 26 years old, I am constantly looking to learn and explore new technologies.
+I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of Front-End Developer. At 26 years old, I am constantly looking to learn and explore new technologies.
 
 <h2 align='center'>Check my <a href='https://isamocellin.github.io' target="_blank">Portfolio ✨</a></h2>
 
@@ -12,7 +12,7 @@ I'm a technology enthusiast with experience in software development, databases, 
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=blue" alt="Python">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=blue">
+  <img src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=blue" alt="MySQL">
   <img src="https://img.shields.io/badge/Power%20BI-000000.svg?style=for-the-badge&logo=Power-BI&logoColor=yellow" alt="PowerBI">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" alt="GitHub">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F" alt="Git">
