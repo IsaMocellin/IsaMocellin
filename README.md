@@ -2,7 +2,7 @@
 
 I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of data analysis. At 26 years old, I am constantly looking to learn and explore new technologies.
 
-<h2 align='center'>Check my <a href='https://isamocellin.github.io' target="_blank">Portfolio ✨<a></h2>
+<h2 align='center'>Check my <a href='https://isamocellin.github.io' target="_blank">Portfolio ✨</a></h2>
 
 ## Technology Stack 💻
 
